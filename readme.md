@@ -1,6 +1,7 @@
 ## This is a banking prototypes bootstraps website
 
-# here i use just HTML,CSS,Bootstrap
+- Here I use HTML,CSS, Bootstrap
+- this website is fully responsive
 
 # Website Image
 
